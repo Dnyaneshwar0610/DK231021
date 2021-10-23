@@ -1,7 +1,7 @@
 
 
 
-public class Hello {
+public class mygit {
 public static void main(String[] args) {
 		//Hello World Printing
 		
